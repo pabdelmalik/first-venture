@@ -1,1 +1,3 @@
 # first-venture
+Playing around with GitHub for the first time...
+Not a coder....but an interested dabbler
